@@ -1,0 +1,38 @@
+Bine ai venit pe această platformă, care iși propune să iți ofere materiale interactive, ușor de înțeles și extrem de utile pentru rezolvarea exercițiilor de la bac.
+
+Față de celelalte platforme, acest website iși propune să: 
+
+învețe studentul pas cu pas
+
+să-i ofere exerciții rezolvate explicit pe variante de subiecte din anii trecuți
+
+ii va calcula (în caz că dorește doar să treacă), exact ce trebuie să învețe
+
+
+GHjhjkorkp545'[;[rt]54
+(K!4rMMu!1vzWc#mmhLS
+
+
+:root {
+   --colour-primary: #6c63ff; 
+   --colour-success: #63ff70;
+   --colour-warning: #fffc63;
+   --colour-danger: #ff6363;
+   --colour-danger-variant: rgba(247, 88, 66, 0.4);
+   --colour-white: #fff;
+   --colour-light: rgba(255, 255, 255, 0.7);
+   --colour-black: #000;
+   --colour-bg: #6380ff;
+   --colour-bg1: #63a7ff;
+   --colour-bg2: #8563ff;
+
+   --container-width-lg: 76%;
+   --container-width-md: 90%;
+   --container-width-sn: 94%;
+    
+    --transition: all 400ms ease;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
